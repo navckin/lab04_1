@@ -1,6 +1,5 @@
 [![Build Status](https://travis-ci.com/navckin/lab04_1.svg?branch=main)](https://travis-ci.com/navckin/lab04_1)
 [![Build Status](https://travis-ci.com/navckin/lab04.svg?branch=main)](https://travis-ci.com/navckin/lab04)
-<фрагмент_вставки_значка>
 ## Laboratory work III
 
 
